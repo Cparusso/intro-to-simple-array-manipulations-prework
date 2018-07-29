@@ -1,9 +1,9 @@
 def using_push(an_arr, str)
-  an_arr << aStr
+  an_arr << str
 end
 
 def using_unshift(an_arr, str)
-  an_arr.unshift(aStr)
+  an_arr.unshift(str)
 end
 
 def using_pop(an_arr)
@@ -23,7 +23,7 @@ def shift_with_args(an_arr)
 end
 
 def using_concat(an_arr, another_arr)
-  an_arr.concat(anotherArr)
+  an_arr.concat(another_arr)
 end
 
 def using_insert(an_arr, elem)
