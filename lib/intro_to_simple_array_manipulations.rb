@@ -31,11 +31,11 @@ def using_insert(an_arr, elem)
 end
 
 def using_uniq(an_arr)
-  an_arr.uniq
+  an_arr.uniq()
 end
 
 def using_flatten(an_arr)
-an_arr.flatten
+  an_arr.flatten()
 end
 
 def using_delete(an_arr, str_or_int)
