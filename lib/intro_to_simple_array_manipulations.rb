@@ -9,3 +9,7 @@ end
 def using_pop(anArr)
   anArr.pop
 end
+
+def pop_with_args(anArr, anArg)
+  anArr.pop(anArg)
+end
