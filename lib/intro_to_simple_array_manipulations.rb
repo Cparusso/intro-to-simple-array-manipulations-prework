@@ -18,6 +18,6 @@ def using_shift(anArr)
   anArr.shift()
 end
 
-def using_shift_with_args(anArr)
+def shift_with_args(anArr)
   anArr.shift(2)
 end
