@@ -34,7 +34,7 @@ def using_uniq(anArr)
 
 end
 
-def using_flatten
+def using_flatten(anArr)
 
 end
 
