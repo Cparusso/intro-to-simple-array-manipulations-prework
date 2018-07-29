@@ -22,6 +22,22 @@ def shift_with_args(anArr)
   anArr.shift(2)
 end
 
-def using_concat
-  
+def using_concat(anArr, anotherArr)
+  anArr.concat(anotherArr)
+end
+
+def using_insert
+
+end
+
+def using_uniq
+
+end
+
+def using_flatten
+
+end
+
+def using_delete
+
 end
