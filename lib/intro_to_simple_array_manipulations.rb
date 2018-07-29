@@ -30,7 +30,7 @@ def using_insert(anArr, anElem)
   anArr.insert(4, anElem)
 end
 
-def using_uniq
+def using_uniq(anArr)
 
 end
 
