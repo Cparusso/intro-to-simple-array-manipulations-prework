@@ -8,3 +8,4 @@ end
 
 def using_pop(anArr)
   anArr.pop
+end
