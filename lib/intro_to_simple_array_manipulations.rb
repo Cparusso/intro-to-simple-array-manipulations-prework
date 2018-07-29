@@ -39,5 +39,5 @@ def using_flatten(an_arr)
 end
 
 def using_delete(an_arr, str_or_int)
-
+  an_arr.delete(str_or_int)
 end
