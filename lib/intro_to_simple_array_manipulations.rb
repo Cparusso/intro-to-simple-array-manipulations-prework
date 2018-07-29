@@ -38,6 +38,6 @@ def using_flatten(anArr)
 
 end
 
-def using_delete
+def using_delete(anArr, aStr)
 
 end
